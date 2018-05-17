@@ -7,9 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Stefan Neuhaus</copyright>
+    <lastBuildDate>Thu, 17 May 2018 08:35:00 +0200</lastBuildDate>
     
 	<atom:link href="https://stefanneuhaus.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CMS</title>
+      <link>https://stefanneuhaus.github.io/tags/cms/</link>
+      <pubDate>Thu, 17 May 2018 08:35:00 +0200</pubDate>
+      
+      <guid>https://stefanneuhaus.github.io/tags/cms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://stefanneuhaus.github.io/tags/hugo/</link>
+      <pubDate>Thu, 17 May 2018 08:35:00 +0200</pubDate>
+      
+      <guid>https://stefanneuhaus.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static site generator</title>
+      <link>https://stefanneuhaus.github.io/tags/static-site-generator/</link>
+      <pubDate>Thu, 17 May 2018 08:35:00 +0200</pubDate>
+      
+      <guid>https://stefanneuhaus.github.io/tags/static-site-generator/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

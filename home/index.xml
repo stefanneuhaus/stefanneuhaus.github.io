@@ -21,5 +21,14 @@
       <description>Biography I work as a Software Engineer at REWE Digital in Cologne, Germany.</description>
     </item>
     
+    <item>
+      <title>Blog Posts</title>
+      <link>https://stefanneuhaus.github.io/home/posts/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://stefanneuhaus.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

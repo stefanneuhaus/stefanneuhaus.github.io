@@ -5,7 +5,56 @@
     
     <url>
     
+      <loc>https://stefanneuhaus.github.io/post/creating-my-website-with-hugo/</loc>
+      <lastmod>2018-05-17T08:35:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://stefanneuhaus.github.io/tags/cms/</loc>
+      <lastmod>2018-05-17T08:35:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://stefanneuhaus.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://stefanneuhaus.github.io/tags/hugo/</loc>
+      <lastmod>2018-05-17T08:35:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://stefanneuhaus.github.io/post/</loc>
+      <lastmod>2018-05-17T08:35:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://stefanneuhaus.github.io/tags/static-site-generator/</loc>
+      <lastmod>2018-05-17T08:35:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -25,6 +74,7 @@
     <url>
     
       <loc>https://stefanneuhaus.github.io/tags/</loc>
+      <lastmod>2018-05-17T08:35:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
